@@ -18,10 +18,6 @@
   - **Data science** (Python)
   - **agile methodologies** (Scrum, Kanban)
 
-## 📫 How to reach me:
-  - **E-Mail**: [flip.van.vagner@gmail.com](mailto:flip.van.vagner@gmail.com)  
-
-
 ## :surfing_man: Fun:
   - If I’m not coding, you’ll find me out on the water. 
 
